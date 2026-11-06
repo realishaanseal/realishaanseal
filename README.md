@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Ishaan Seal</h1>
+<h1 align="center">Shresth Kumar</h1>
 <p align="center"><b>Founder &amp; CEO, <a href="https://varaxisgroup.com">Varaxis</a></b><br>
 <i>Ideas deserve better systems.</i></p>
 
